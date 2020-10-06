@@ -18,9 +18,6 @@
 		<loc>https://vcte.ksau-hs.edu.sa/login.html</loc>
 	</url>
 	<url>
-		<loc>https://vcte.ksau-hs.edu.sa/page10.html</loc>
-	</url>
-	<url>
 		<loc>https://vcte.ksau-hs.edu.sa/vr_experiences.html</loc>
 	</url>
 	<url>
@@ -28,5 +25,8 @@
 	</url>
 	<url>
 		<loc>https://vcte.ksau-hs.edu.sa/trending.html</loc>
+	</url>
+	<url>
+		<loc>https://vcte.ksau-hs.edu.sa/live_stramings.html</loc>
 	</url>
 </urlset>
